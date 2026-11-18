@@ -1,0 +1,16 @@
+﻿Index,Name
+1,host_MinAbsEStateIndex
+16,host_PEOE_VSA14
+31,host_SMR_VSA9
+47,host_EState_VSA5
+48,host_EState_VSA6
+50,host_EState_VSA8
+71,host_RingCount
+92,guest_BCUT2D_MWLOW
+94,guest_BCUT2D_LOGPLOW
+136,guest_SlogP_VSA5
+143,guest_EState_VSA2
+146,guest_EState_VSA5
+152,guest_VSA_EState2
+156,guest_VSA_EState6
+257,com_NumUnspecifiedAtomStereoCenters
